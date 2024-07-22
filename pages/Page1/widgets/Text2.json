@@ -43,7 +43,7 @@
   "responsiveBehavior": "fill",
   "rightColumn": 55,
   "shouldTruncate": false,
-  "text": "{{testname.myFun1()}}",
+  "text": "{{pn.myFun1()}}",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 5,
