@@ -1,14 +1,14 @@
 {
-  "gitSyncId": "669e657eae21844540eb5a3d_c6d1f308-04ff-42df-af29-98c34c1fd45a",
-  "id": "Page1__$newP1$_newP.myFun1",
+  "gitSyncId": "669e676bae21844540eb5b05_7cce3116-c932-4d8e-8cee-dd27744933fb",
+  "id": "Page1__$p31$_p3.myFun1",
   "isPublic": true,
-  "moduleInstanceId": "Page1_newP1",
+  "moduleInstanceId": "Page1_p31",
   "pluginId": "js-plugin",
   "pluginType": "JS",
-  "rootModuleInstanceId": "Page1_newP1",
+  "rootModuleInstanceId": "Page1_p31",
   "unpublishedAction": {
     "clientSideExecution": true,
-    "collectionId": "Page1__$newP1$_newP",
+    "collectionId": "Page1__$p31$_p3",
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
     "datasource": {
@@ -17,7 +17,7 @@
       "pluginId": "js-plugin"
     },
     "executeOnLoad": false,
-    "fullyQualifiedName": "_$newP1$_newP.myFun1",
+    "fullyQualifiedName": "_$p31$_p3.myFun1",
     "name": "myFun1",
     "pageId": "Page1",
     "userSetOnLoad": false
