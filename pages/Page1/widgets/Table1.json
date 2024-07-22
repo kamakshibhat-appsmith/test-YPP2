@@ -5,7 +5,7 @@
   "borderColor": "#E0DEDE",
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
   "borderWidth": "1",
-  "bottomRow": 38,
+  "bottomRow": 42,
   "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
   "canFreezeColumn": true,
   "childStylesheet": {
@@ -602,7 +602,7 @@
   "showInlineEditingOptionDropdown": true,
   "tableData": "{{Select_public_users1.data}}",
   "textSize": "0.875rem",
-  "topRow": 10,
+  "topRow": 14,
   "totalRecordsCount": "{{Total_record_public_users1.data[0].count}}",
   "type": "TABLE_WIDGET_V2",
   "version": 2,
